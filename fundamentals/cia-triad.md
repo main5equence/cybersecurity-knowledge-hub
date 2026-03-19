@@ -90,6 +90,6 @@ Effective cybersecurity requires balancing all three elements depending on the c
 
 ---
 
-## 🧠 Notes
+## Notes
 
 Understanding the CIA Triad is essential for analyzing risks, designing secure systems, and evaluating potential threats.
