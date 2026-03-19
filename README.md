@@ -24,36 +24,72 @@ It reflects my ongoing development in cybersecurity and focuses on building a cl
 
 ## Topics Covered
 
-- Network Security  
-- Web Security (OWASP Top 10)  
+- Cybersecurity Fundamentals  
+- Network and Infrastructure Security  
+- Web Application Security (OWASP Top 10)  
+- IoT & Operational Technology (OT) Security  
+- Usable Security and Human Factors  
+- Social Engineering and Insider Threats  
 - Cyber Threats and Attack Vectors  
-- Risk and Vulnerability Analysis  
-- Security Best Practices  
+- Risk, Vulnerability, and Threat Analysis  
+- Security Best Practices and Principles   
 
 ---
 
 ## Structure
 
-fundamentals/ → core cybersecurity concepts (CIA triad, basic principles)
-
-network-security/ → networking, protocols, and infrastructure security
-
-web-security/ → web vulnerabilities and OWASP topics
-
-iot-ot-security/ → IoT and Operational Technology security
-
-usable-security/ → human factors, UX, and security usability
-
-risk-analysis/ → risk management, threat modeling, vulnerabilities
-
-threats/ → attack types and threat landscape
-
-notes/ → general learning notes
-
-presentations/ → slides and training materials
-
-resources/ → useful links and external materials
-
+```
+Cybersecurity-Knowledge-Hub/
+│
+├── fundamentals/
+│   ├── cia-triad.md
+│   ├── security-principles.md
+│   └── cryptography-basics.md
+│
+├── network-security/
+│   ├── network-basics.md
+│   ├── protocols.md
+│   └── network-threats.md
+│
+├── web-security/
+│   ├── owasp-top10.md
+│   ├── authentication.md
+│   └── common-vulnerabilities.md
+│
+├── iot-ot-security/
+│   ├── iot-security-basics.md
+│   ├── ot-security-overview.md
+│   └── common-risks.md
+│
+├── usable-security/
+│   ├── human-factor.md
+│   ├── security-vs-usability.md
+│   └── user-behavior.md
+│
+├── threats/
+│   ├── social-engineering.md
+│   ├── phishing.md
+│   ├── insider-threats.md
+│   └── malware-overview.md
+│
+├── risk-analysis/
+│   ├── risk-management.md
+│   ├── threat-modeling.md
+│   └── vulnerability-assessment.md
+│
+├── notes/
+│   └── general-notes.md
+│
+├── presentations/
+│   ├── phishing-presentation.pdf
+│   └── security-basics.pptx
+|   └── social-attacks.pptx
+│
+├── resources/
+│   └── useful-links.md
+│
+└── README.md
+```
 
 ---
 
