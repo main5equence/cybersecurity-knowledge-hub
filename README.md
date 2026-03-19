@@ -82,8 +82,8 @@ Cybersecurity-Knowledge-Hub/
 │
 ├── presentations/
 │   ├── phishing-presentation.pdf
-│   └── security-basics.pptx
-|   └── social-attacks.pptx
+│   └── security-basics.pdf
+|   └── social-attacks.pdf
 │
 ├── resources/
 │   └── useful-links.md
