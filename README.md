@@ -76,7 +76,10 @@ Cybersecurity-Knowledge-Hub/
 │   ├── risk-management.md
 │   ├── threat-modeling.md
 │   └── vulnerability-assessment.md
-│
+│   └── risk-matrix.md
+|   └── cvss-scoring.md
+|   └── attack-surface.md
+|
 ├── notes/
 │   └── general-notes.md
 │
