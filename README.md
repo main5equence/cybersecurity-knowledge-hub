@@ -5,7 +5,6 @@ It is designed to support the understanding of key security concepts through str
 
 ![Security](https://img.shields.io/badge/security-enabled-brightgreen)
 ![Dependabot](https://img.shields.io/badge/dependabot-active-blue)
-![CodeQL](https://img.shields.io/badge/codeql-active-purple)
 ![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-lightgrey)
 
 ---
