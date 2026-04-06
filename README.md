@@ -3,9 +3,9 @@
 This repository is a space where I document and share knowledge related to cybersecurity.
 It is designed to support the understanding of key security concepts through structured notes, presentations, and curated learning materials. The goal is to make complex topics more accessible and easier to understand, both for myself and others interested in cybersecurity.
 
-![Security](https://img.shields.io/badge/security-enabled-brightgreen)
-![Dependabot](https://img.shields.io/badge/dependabot-active-blue)
-![License](https://img.shields.io/badge/license-CC--BY--NC--4.0-lightgrey)
+![Security](https://img.shields.io/badge/security-policy-blue)
+![Dependabot](https://img.shields.io/badge/dependabot-enabled-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
