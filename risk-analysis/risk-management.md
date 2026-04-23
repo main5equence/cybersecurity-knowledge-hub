@@ -53,7 +53,7 @@ A typical risk management process includes the following steps:
    Continuously track risks and update controls as the threat landscape evolves.
 
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/2d2c8774-07cc-4c5c-9aeb-ae812201ab0f" />
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/2d2c8774-07cc-4c5c-9aeb-ae812201ab0f" />
 
 ---
 
@@ -81,7 +81,7 @@ It typically considers:
 ## Risk Mitigation Strategies
 
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/ac3247b8-8eee-4306-88e7-403c131c6512" />
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/ac3247b8-8eee-4306-88e7-403c131c6512" />
 
 
 
