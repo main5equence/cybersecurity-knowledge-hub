@@ -33,10 +33,82 @@ These devices often communicate over the internet and operate with minimal human
 
 ## Common Attack Vectors
 
-- Device hijacking  
-- Botnets (e.g., Mirai)  
-- Unauthorized access  
-- Data interception  
+### Device Hijacking
+
+Unauthorized takeover of a device by an attacker.
+
+How it happens:
+- weak or default credentials
+- vulnerabilities in firmware
+- lack of security updates
+
+What attackers can do:
+- change device configuration
+- use the device as an entry point into the network
+- disrupt or disable the device (DoS)
+
+Example:
+Compromising an IP camera and using it for surveillance or further attacks.
+
+ 
+
+### Botnets (e.g., Mirai botnet)
+
+Large networks of infected devices controlled by an attacker.
+
+How it works:
+- malware scans the internet for vulnerable IoT devices
+- exploits default credentials
+- automatically infects devices and adds them to a botnet
+
+Used for:
+- DDoS attacks
+- spam distribution
+- spreading additional malware
+
+Why IoT is vulnerable:
+- weak security
+- lack of updates
+- massive number of devices
+
+
+### Unauthorized Access
+
+Gaining access to systems or devices without permission.
+
+How it happens:
+- weak or stolen credentials
+- lack of multi-factor authentication (MFA)
+- misconfigurations (e.g., open ports)
+
+Impact:
+- access to sensitive data
+- manipulation of systems
+- privilege escalation
+
+In OT environments:
+Can lead to changes in physical processes (e.g., industrial operations).
+
+### Data Interception
+
+Capturing data as it travels between devices.
+
+How it happens:
+- unencrypted communication (HTTP, Telnet)
+- Man-in-the-Middle (MITM) attacks
+- network sniffing
+
+What can be intercepted:
+- login credentials
+- operational data
+- control commands
+
+Risks:
+- data theft
+- manipulation of communication
+- potential system takeover
+
+
 
 ---
 
