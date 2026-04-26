@@ -114,10 +114,57 @@ Risks:
 
 ## Best Practices
 
-- Change default credentials  
-- Keep devices updated  
-- Use secure communication protocols  
-- Segment networks  
+### Change Default Credentials
+
+Many devices come with default usernames and passwords that are publicly known.
+
+Best practices:
+- Change all default credentials immediately after deployment
+- Use strong, unique passwords for each device
+- Implement centralized credential management where possible
+
+Why it matters:
+Prevents attackers from easily gaining access using known credentials.
+
+### Keep Devices Updated
+
+Outdated devices often contain known vulnerabilities.
+
+Best practices:
+- Apply firmware and software updates regularly
+- Track device inventory and update status
+- Replace devices that are no longer supported
+
+Challenges in OT:
+Updates must be carefully planned to avoid downtime.
+
+Why it matters:
+Reduces exposure to known exploits and long-term risks.
+
+### Use Secure Communication Protocols
+
+Unencrypted communication can be easily intercepted.
+
+Best practices:
+- Use encrypted protocols (e.g., HTTPS, TLS) instead of HTTP or Telnet
+- Secure device-to-device and device-to-cloud communication
+- Disable insecure or unused services
+
+Why it matters:
+Protects data integrity and confidentiality.
+
+
+### Segment Networks
+
+Flat networks increase the risk of lateral movement.
+
+Best practices:
+- Separate IT, IoT, and OT networks
+- Use VLANs, firewalls, and DMZs
+- Implement Zero Trust principles
+
+Why it matters:
+Limits the spread of attacks and reduces overall risk.
 
 ---
 
