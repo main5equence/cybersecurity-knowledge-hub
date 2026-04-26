@@ -47,6 +47,11 @@ flowchart TD
 
 ## Common Risks
 
+
+<img width="1030" height="672" alt="image" src="https://github.com/user-attachments/assets/78296896-eb4e-4ffa-9d19-0521eab1ec08" />
+
+
+
 ### Weak Authentication
 - Devices often use default or weak credentials.
 
@@ -194,8 +199,6 @@ Combine: network security, device security, identity controls
 - Risks affect both digital and physical environments  
 - Security must be proactive and continuous  
 
----
 
-## Notes
 
 Managing risk in IoT and OT requires a combination of technical controls and strategic planning.
