@@ -38,7 +38,6 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://www.abuse.ch/
 - https://www.exploit-db.com/
 - https://attack.mitre.org/
-- https://app.maltego.com/
 
 ---
 
@@ -52,6 +51,8 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://www.rapid7.com/
 - https://www.wireshark.org/download.html
 - https://github.com/gentilkiwi/mimikatz
+- - https://app.maltego.com/
+
 
 ---
 
