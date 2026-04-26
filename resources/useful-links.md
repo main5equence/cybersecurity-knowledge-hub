@@ -26,7 +26,8 @@ The goal is to collect reliable and practical materials for continuous learning.
 ## Cybersecurity Fundamentals
 
 - https://www.cisa.gov/  
-- https://www.nist.gov/cyberframework  
+- https://www.nist.gov/cyberframework
+- https://www.nomoreransom.org/pl/index.html
 
 ---
 
