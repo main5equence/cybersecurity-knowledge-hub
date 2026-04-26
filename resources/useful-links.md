@@ -58,8 +58,10 @@ The goal is to collect reliable and practical materials for continuous learning.
 
 - Blogs, articles, and learning materials will be added over time  
 
-### Complaince
+### Articles
+[ransomware]
 - https://www.knf.gov.pl/dla_rynku/CSIRT_KNF/Aktualnosci?articleId=89341&p_id=18
+
 
 
 
