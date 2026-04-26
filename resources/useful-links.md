@@ -123,14 +123,6 @@ OpenVAS – free alternative to Nessus
 ### Learning Materials
 - SANS Institute – high-quality whitepapers and training
 
----
-
-### Lastest discovered interesting articles:
-- https://www.knf.gov.pl/dla_rynku/CSIRT_KNF/Aktualnosci?articleId=89341&p_id=18
-- https://csrc.nist.gov/csrc/media/Presentations/2025/mitre-atlas/TuePM2.1-MITRE%20ATLAS%20Overview%20Sept%202025.pdf
-- https://www.isaca.org/resources/white-papers/reporting-cybersecurity-risk-to-the-board-of-directors
-- https://www.isaca.org/resources/isaca-journal/past-issues/2014/an-enhanced-risk-formula-for-software-security-vulnerabilities
-
 
 ---
 
