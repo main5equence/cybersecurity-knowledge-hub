@@ -169,8 +169,8 @@ Example: Stuxnet attack showed how cyber attacks can cause physical destruction.
 - Implement device identity management 
 
 2. Network Segmentation
-Seperate:IT network, IoT devices, OT systems
-Example: VLANs, Zero Trust architecture
+- Seperate:IT network, IoT devices, OT systems
+- Example: VLANs, Zero Trust architecture
 
 3. Encryption
 - Use TLS instead of HTTP
@@ -188,7 +188,7 @@ Example: VLANs, Zero Trust architecture
 - Replace unsupported devices
 
 6. Defense in Depth 
-Combine: network security, device security, identity controls
+- Combine: network security, device security, identity controls
 
 
 ---
