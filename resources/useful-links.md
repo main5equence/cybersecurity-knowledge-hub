@@ -51,6 +51,7 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://lab401.com/
 - https://www.rapid7.com/
 - https://www.wireshark.org/download.html
+- https://github.com/gentilkiwi/mimikatz
 
 ---
 
