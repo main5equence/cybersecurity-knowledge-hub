@@ -38,6 +38,7 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://www.abuse.ch/
 - https://www.exploit-db.com/
 - https://attack.mitre.org/
+- https://atlas.mitre.org/
 
 ---
 
@@ -51,7 +52,9 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://www.rapid7.com/
 - https://www.wireshark.org/download.html
 - https://github.com/gentilkiwi/mimikatz
-- - https://app.maltego.com/
+- https://app.maltego.com/
+- https://www.kali.org/get-kali/#kali-platforms
+- https://www.metasploit.com/
 
 
 ---
@@ -64,9 +67,12 @@ The goal is to collect reliable and practical materials for continuous learning.
 [ransomware]
 - https://www.knf.gov.pl/dla_rynku/CSIRT_KNF/Aktualnosci?articleId=89341&p_id=18
 
+[AI Security]
+- https://csrc.nist.gov/csrc/media/Presentations/2025/mitre-atlas/TuePM2.1-MITRE%20ATLAS%20Overview%20Sept%202025.pdf
 
-
-
+[Strategic Approach]
+- https://www.isaca.org/resources/white-papers/reporting-cybersecurity-risk-to-the-board-of-directors
+- https://www.isaca.org/resources/isaca-journal/past-issues/2014/an-enhanced-risk-formula-for-software-security-vulnerabilities
 
 ---
 
