@@ -6,6 +6,9 @@ The Internet of Things (IoT) refers to a network of interconnected devices that 
 
 IoT security focuses on protecting these devices and the data they process from unauthorized access and attacks.
 
+<img width="1021" height="674" alt="image" src="https://github.com/user-attachments/assets/fc54f82c-4560-4153-a75d-2fcd4fa05e6b" />
+
+
 ---
 
 ## What is IoT?
