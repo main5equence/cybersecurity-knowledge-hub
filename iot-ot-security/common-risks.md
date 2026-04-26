@@ -10,6 +10,39 @@ IoT (Internet of Things) and OT (Operational Technology) environments introduce 
 
 They are often targeted because they bridge IT systems and real-world operations.
 
+```mermaid
+flowchart TD
+    A[IoT & OT Environment]
+
+    A --> B1[Weak Security Configurations]
+    A --> B2[Lack of Visibility]
+    A --> B3[Legacy Systems & Outdated Software]
+    A --> B4[Network Exposure & Connectivity Risks]
+
+    B1 --> C1[Default passwords]
+    B1 --> C2[Poor access control]
+
+    B2 --> C3[No monitoring]
+    B2 --> C4[Limited logging]
+
+    B3 --> C5[No patches]
+    B3 --> C6[Unsupported systems]
+
+    B4 --> C7[Open ports]
+    B4 --> C8[Internet exposure]
+    B4 --> C9[Flat networks]
+
+    B1 --> D[Business Impact]
+    B2 --> D
+    B3 --> D
+    B4 --> D
+
+    D --> E1[Data breaches]
+    D --> E2[Operational disruption]
+    D --> E3[Safety incidents]
+    D --> E4[Financial losses]
+```
+
 ---
 
 ## Common Risks
