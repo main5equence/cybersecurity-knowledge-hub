@@ -6,6 +6,11 @@ Operational Technology (OT) refers to systems that monitor and control physical 
 
 OT security focuses on protecting critical infrastructure and industrial systems from cyber threats.
 
+
+<img width="1027" height="684" alt="image" src="https://github.com/user-attachments/assets/f838368b-cf17-4dcf-b8e5-359a28a02628" />
+
+
+
 ---
 
 ## What is OT?
