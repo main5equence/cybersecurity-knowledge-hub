@@ -48,9 +48,9 @@ The goal is to collect reliable and practical materials for continuous learning.
 - https://www.wireshark.org/
 - https://payloadstudio.hak5.org/community/
 - https://wazuh.com/
+- https://www.cryptool.org/en/ct2/downloads/
 - https://lab401.com/
 - https://www.rapid7.com/
-- https://www.wireshark.org/download.html
 - https://github.com/gentilkiwi/mimikatz
 - https://app.maltego.com/
 - https://www.kali.org/get-kali/#kali-platforms
